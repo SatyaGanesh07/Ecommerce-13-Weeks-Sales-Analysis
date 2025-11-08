@@ -60,7 +60,7 @@ Relation established between transaction dates and calendar dates to enable cont
 
 🔗 Live Dashboard
 Explore the interactive dashboard here:
-👉 [View](https://app.powerbi.com/view?r=eyJrIjoiNDMzMDk5NjMtM2Y1ZC00MTU1LTkzNTQtMjEzNWJkYTM5ZjJmIiwidCI6ImRjODhkNWNiLWMxMjEtNDUzYi1hMGRiLTFmMzlmYjEyMjJiMyJ9)
+👉 [  View   ](https://app.powerbi.com/view?r=eyJrIjoiNDMzMDk5NjMtM2Y1ZC00MTU1LTkzNTQtMjEzNWJkYTM5ZjJmIiwidCI6ImRjODhkNWNiLWMxMjEtNDUzYi1hMGRiLTFmMzlmYjEyMjJiMyJ9)
 
 ***
 ## Data & Tools
@@ -97,14 +97,6 @@ Orders by Channel = CALCULATE([Total Orders], ALLEXCEPT('Sales', 'Sales'[OrderMo
 - Clear, descriptive measure names with comments.
 - Dynamic calculations influenced by slicers and time filters.
 - Focused visual design for business effectiveness.
-
-***
-
-## Getting Started
-
-1. Download the Power BI `.pbix` file.
-2. Connect or load relevant ecommerce sales data into Power BI.
-3. Refresh the model and begin exploring insights immediately.
 
 ***
 
