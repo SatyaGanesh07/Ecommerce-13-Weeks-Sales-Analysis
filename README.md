@@ -1,4 +1,4 @@
-# 📊 Ecommerce 13-Week Sales Analytics Dashboard
+# 📊 Ecommerce 13-Week Sales Analysis
 
 **Advanced Power BI Solution with Dynamic DAX and Interactive Visualizations**
 
